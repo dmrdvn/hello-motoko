@@ -1,3 +1,3 @@
 # hello-motoko
 
-Canister ID: zdg5y-iqaaa-aaaab-qacdq-cai
+Canister ID: https://a4gq6-oaaaa-aaaab-qaa4q-cai.raw.icp0.io/?id=zdg5y-iqaaa-aaaab-qacdq-cai&tag=1&did=c2VydmljZSA6IHsKICB0cmFuc2ZlcjogKGZ1bmMgKCkgLT4gKCksIG5hdCkgLT4gKHJlY29yZCB7cmVmdW5kZWQ6IG5hdDt9KTsKICB3YWxsZXRfYmFsYW5jZTogKCkgLT4gKG5hdCk7CiAgd2FsbGV0X3JlY2VpdmU6ICgpIC0%2BIChyZWNvcmQge2FjY2VwdGVkOiBuYXQ2NDt9KTsKfQo%3D
